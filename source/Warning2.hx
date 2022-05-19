@@ -42,12 +42,11 @@ class Warning2 extends MusicBeatState
 		txt.borderStyle = FlxTextBorderStyle.OUTLINE;
 		txt.screenCenter();
 		add(txt);
-
 	}
 
 	override function update(elapsed:Float)
 	{
-		if (FlxG.keys.justPressed.ENTER){
+		if (controls.ACCEPT)
 		{
 			FlxG.switchState(new MainMenuState());
 		}
