@@ -15,6 +15,7 @@ import haxe.Exception;
 import openfl.geom.Matrix;
 import openfl.display.BitmapData;
 import openfl.utils.AssetType;
+import sys.FileSystem;
 import lime.graphics.Image;
 import flixel.graphics.FlxGraphic;
 import openfl.utils.AssetManifest;
@@ -4043,7 +4044,7 @@ class PlayState extends MusicBeatState
 
 			public function backgroundVideo(source:String) // for background videos
 				{
-					#if cpp
+					/*#if cpp
 					useVideo = true;
 			
 					FlxG.stage.window.onFocusOut.add(focusOut);
@@ -4078,23 +4079,23 @@ class PlayState extends MusicBeatState
 			
 					videoSprite = new FlxSprite(-470,-30).loadGraphic(data);
 			
-					videoSprite.setGraphicSize(Std.int(videoSprite.width * 1.2));
+					videoSprite.setGraphicSize(Std.int(videoSprite.width * 1.2));*/
 			
 					remove(gf);
 					remove(boyfriend);
 					remove(dad);
-					add(videoSprite);
+				//	add(videoSprite);
 					add(gf);
 					add(boyfriend);
 					add(dad);
 			
-					trace('poggers');
+				//	trace('poggers');
 			
-					if (!songStarted)
-						webmHandler.pause();
-					else
-						webmHandler.resume();
-					#end
+			//		if (!songStarted)
+			//			webmHandler.pause();
+			//		else
+			//			webmHandler.resume();
+			//		#end
 				}
 
 	function noteMiss(direction:Int = 1, daNote:Note):Void
