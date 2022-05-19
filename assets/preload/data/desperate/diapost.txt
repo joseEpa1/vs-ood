@@ -1,0 +1,22 @@
+:bf:normal:beep boop beep beep 
+:noChar:default:*bf try to call gf again...*
+:noChar:default:*but nobody came....*  
+:odd:god:HA HA HAAA. You love to sing, right? 
+:odd:god:But what if you battle with HER
+:bf:normal:Beep?
+:noChar:default: *Ood possesses girlfriend’s body*
+:odd:god:Look at my masterpiece. Hahaha.
+:bf:normal: BEEP! BOP! BEEP! BEEP!
+:noChar:default: *bf try to call gf...*
+:noChar:default: *gf turn around*
+:gfgod:normal:....
+:gfgod:normal:Shut
+:gfgod:normal:UP!
+:flash:white
+:bf:normal: Beep Boop!?
+:odd:god:I also really want to know if your battle with girlfriend will be as funny as I thought so here we go.
+:bf:normal: BOP!
+:sound:police:
+:odd:god:Damn it, it’s the cops again. It’s going to be that damn general again. I’m not wasting any more time on you, boyfriend. I’ll have to go
+:bg:GF
+:noChar:default: To Be Counted.

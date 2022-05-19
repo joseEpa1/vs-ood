@@ -1,0 +1,16 @@
+:odd:normal:Hey! Not bad for a dwarf!
+:bf:normal:Beep boop 
+:odd:normal:Huh? What did you say again?
+:bf:normal:beep boop boop beep boop!
+:odd:mad:You… did not believe what the song I sang told you?
+:bf:normal:boop boop 
+:odd:mad:OH, I get it
+:odd:point:YOU ARE FAITHLESS RIGHT?. 
+:odd:mad:And I thought I could trust you.
+:odd:mad:The truth believers, keep an eye on this girl.
+:gf:normal:!!
+:bf:normal:Beep??
+:odd:mad:Don’t worry. We won’t hurt her. We’re just not happy with what you said.
+:odd:mad:With that out of the way, let’s move on to the next song. 
+:odd:point:I’ll teach you how the truth came to be
+:bf:normal:......

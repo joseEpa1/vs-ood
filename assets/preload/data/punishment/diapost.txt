@@ -1,0 +1,9 @@
+:effect:fadeIn:
+:noChar:default:Leader! Leader! Leader! The cops are here!
+:odd:angry:What?! The cops? Hand me the axe, Sonk my beloved. I’ll deal with the cops myself.
+:bg:police
+:sound:war
+:noChar:default: *Sonk gets shot by the cops and dies*
+:noChar:default: *GF Faints from the explosion*
+:noChar:default: *BF hurt a little*
+::

@@ -1,0 +1,10 @@
+:odd:axe:DIE, BOYFRIEND! DIE! *about to throw axe but*
+:noChar:default: *bf throws mic to defend himself*
+:odd:axe:*injured* You’re quite a challenge to deal with. You’re so good I swear you could’ve-
+:bg:ded
+:noChar:default: *Ood shakes and faints*
+:bf:normal: Beep boop beep 
+:noChar:default: *bf try to wakes girlfriend up*
+:bf:normal: Beep!!!! ??
+:flash:cyan
+:noChar:default: *Blue Light Just come at Odd and Than Flash*
