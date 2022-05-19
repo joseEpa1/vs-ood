@@ -21,17 +21,14 @@ class WarningState extends FlxState
 		warning.loadGraphic("assets/images/warning.png", false, 1280, 720);
 		add(warning);
 		
-		#if android
-		addVirtualPad(NONE, A_B);
-		#end
 	}
 	public override function update(elapsed){
 		
 		
-		if (controls.ACCEPT){
+		if (FlxG.keys.justPressed.ENTER){
 			FlxG.switchState(new Warning2());
-		}
-		if (controls.ACCEPT){
+		
+		if (FlxG.keys.justPressed.BACKSPACE){
 			FlxG.switchState(new Warning2());
 		}
 		super.update(elapsed);
