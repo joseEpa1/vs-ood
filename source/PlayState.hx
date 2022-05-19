@@ -3829,7 +3829,6 @@ class PlayState extends MusicBeatState
 			holdArray = [false, false, false, false];
 			pressArray = [false, false, false, false];
 			releaseArray = [false, false, false, false];
-			if (isRing)
 			{
 				holdArray = [false, false, false, false, false];
 				pressArray = [false, false, false, false, false];
